@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine(174, 206, 255);}
+
+    h4{
+        color: beige(132, 0, 255);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 500;
+    }
+
+    h1{
+        color: blue;
+        text-align: center;
+    }
+
+    h2{color: bisque;
+    
+    }
+
+    div{
+        border-color: cadetblue(147, 53, 147);
+        border: 10x solid rosybrown(59, 18, 59);
+        width: 80%;
+        border: 15px solid plum(121, 71, 121);
+        padding: 50px;
+        margin-left: 5%;
+        margin-left: 10%;
+        }
+        img{
+
+            width: 50%;
+        }
